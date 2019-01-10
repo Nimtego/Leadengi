@@ -3,6 +3,8 @@ package com.nimtego.leadengi
 import android.os.Bundle
 
 class MainActivity : BaseActivity() {
+
+
     override fun fragment(): BaseFragment {
         TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
